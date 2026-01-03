@@ -29,11 +29,11 @@
 
 ### 📊 **GitHub Analytics**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RNAGIT&theme=radical&hide_border=false&border_radius=10&animation=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RNAGIT&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak" />
 <br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RNAGIT&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&border_radius=10&animation=true)
+<img src="https://github-readme-stats.vercel.app/api?username=RNAGIT&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&border_radius=10" alt="GitHub Stats" />
 <br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RNAGIT&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=445&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&border_radius=10&animation=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RNAGIT&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=445&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&border_radius=10" alt="Top Languages" />
 
 </div>
 
@@ -44,7 +44,7 @@
 
 ### 🐍 **Contribution Graph Snake**
 
-![snake gif](https://github.com/RNAGIT/RNAGIT/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/RNAGIT/RNAGIT/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -94,7 +94,7 @@
 
 ### 📈 **Activity Graph**
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RNAGIT&theme=redical&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RNAGIT&theme=radical&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -133,7 +133,9 @@
 
 ### 🎯 **Detailed GitHub Stats**
 
-![Metrics](https://raw.githubusercontent.com/RNAGIT/RNAGIT/main/github-metrics.svg)
+<img src="https://raw.githubusercontent.com/RNAGIT/RNAGIT/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+
+<!-- Note: The metrics SVG will be generated after the first workflow run -->
 
 </div>
 
@@ -162,7 +164,7 @@
 
 ### ⭐️ **If you like my work, don't forget to star my repositories!** ⭐️
 
-![Snake animation](https://github.com/RNAGIT/RNAGIT/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/RNAGIT/RNAGIT/output/github-contribution-grid-snake.svg)
 
 **Made with ❤️ by RNAGIT**
 
