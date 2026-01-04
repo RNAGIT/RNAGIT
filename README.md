@@ -1,157 +1,177 @@
 <div align="center">
 
-<!-- Animated Header with Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;I'm+a+Passionate+Developer;Let's+build+something+amazing+together!" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,21&height=180&section=header&text=RNAGIT&fontSize=100&fontAlignY=30&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descAlign=center" />
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=RNAGIT&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Passionate+Developer;Turning+Ideas+Into+Reality+Through+Code;Let's+Build+Something+Amazing+Together!)](https://git.io/typing-svg)
 
-<!-- Animated GIF Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=RNAGIT&fontSize=90&animation=twinkling&fontAlignY=38&desc=Full+Stack+Developer%20%7C%20Problem+Solver%20%7C%20Tech+Enthusiast&descAlignY=51&descAlign=62" />
+![Profile Views](https://komarev.com/ghpvc/?username=RNAGIT&color=00D9FF&label=PROFILE+VIEWS&style=flat-square)
+
+</div>
 
 </div>
 
 ---
 
-<!-- Introduction Section -->
 <div align="center">
 
-### 🚀 *Turning Ideas Into Reality Through Code*
+## 🚀 **Professional Portfolio**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Passionate+about+creating+innovative+solutions;Always+learning+and+exploring+new+technologies;Open+to+collaborations+and+exciting+projects!)](https://git.io/typing-svg)
+*Transforming complex challenges into elegant solutions through innovative technology and clean code*
 
 </div>
 
 ---
 
-<!-- GitHub Contribution Snake Animation -->
+## 💼 **About Me**
+
 <div align="center">
 
-### 🐍 **Contribution Graph Snake**
-
-![snake gif](https://raw.githubusercontent.com/RNAGIT/RNAGIT/output/github-contribution-grid-snake.svg)
+> *"Excellence is not a skill, it's an attitude."* - Ralph Marston
 
 </div>
 
----
-
-<!-- Skills Section with Animated Badges -->
-<div align="center">
-
-### 💻 **Tech Stack & Skills**
-
-#### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=white)
-
-#### **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=white)
-
-#### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=white)
-
-#### **Tools & Technologies**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure-devops&logoColor=white&labelColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=white)
-
-</div>
-
----
-
-<!-- Activity Graph -->
-<div align="center">
-
-### 📈 **Activity Graph**
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RNAGIT&theme=radical&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<!-- GitHub Trophies -->
-<div align="center">
-
-### 🏆 **GitHub Trophies**
-
-![trophy](https://github-profile-trophy.vercel.app/?username=RNAGIT&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7&animation=true)
-
-</div>
-
----
-
-<!-- About Section -->
 <div align="left">
 
-### 👨‍💻 **About Me**
+I am a **Full Stack Developer** passionate about creating scalable, efficient, and user-centric applications. My journey in software development has equipped me with a diverse skill set across modern technologies, enabling me to tackle complex problems with innovative solutions.
 
-- 🔭 I'm currently working on **exciting projects that push boundaries**
-- 🌱 I'm currently learning **cutting-edge technologies and best practices**
-- 👯 I'm looking to collaborate on **innovative open-source projects**
-- 🤔 I'm looking for help with **exploring new domains and technologies**
-- 💬 Ask me about **Web Development, APIs, Databases, or anything tech-related**
-- 📫 How to reach me: **Check out the links below**
-- ⚡ Fun fact: **I love solving complex problems and turning coffee into code ☕**
-
-</div>
-
----
-
-<!-- GitHub Stats Cards with Animation -->
-<div align="center">
-
-### 🎯 **Detailed GitHub Stats**
-
-<img src="https://raw.githubusercontent.com/RNAGIT/RNAGIT/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
-
-<!-- Note: The metrics SVG will be generated after the first workflow run -->
+- 🔭 **Currently Working On:** Building scalable web applications and exploring cutting-edge technologies
+- 🌱 **Currently Learning:** Advanced system design patterns, cloud architecture, and performance optimization
+- 💡 **Interested In:** Open source contributions, tech mentoring, and collaborative innovation
+- 💬 **Ask Me About:** Web Development, API Design, Database Architecture, Software Engineering Best Practices
+- 📫 **Reach Out:** Connect with me through the social links below
+- ⚡ **Fun Fact:** I believe in writing code that humans can read and maintain - clean code is an art form
 
 </div>
 
 ---
 
-<!-- Social Links -->
+## 🛠️ **Tech Stack & Tools**
+
 <div align="center">
 
-### 🌐 **Connect With Me**
+### **Programming Languages**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/RNAGIT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your.email@example.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/users/yourusername)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### **Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+### **Databases & Storage**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### **DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=azure-devops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### **Development Tools**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-<!-- Animated Footer -->
+## 📊 **GitHub Statistics**
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks+for+visiting!%20%F0%9F%98%84&fontSize=42&animation=twinkling&fontAlignY=65" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RNAGIT&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=false&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
 
-### ⭐️ **If you like my work, don't forget to star my repositories!** ⭐️
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RNAGIT&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RNAGIT&theme=dark&hide_border=true&background=0D1117&dates=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+
+</div>
+
+---
+
+## 📈 **Contribution Activity**
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RNAGIT&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=00D9FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/RNAGIT/RNAGIT/output/github-contribution-grid-snake.svg)
 
-**Made with ❤️ by RNAGIT**
+</div>
+
+---
+
+## 🏆 **GitHub Achievements**
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RNAGIT&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
+---
+
+## 📈 **Detailed Metrics**
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RNAGIT/RNAGIT/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+
+</div>
+
+---
+
+## 🌐 **Connect With Me**
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RNAGIT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourusername)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,21&height=150&section=footer&text=Thank+You+for+Visiting!&fontSize=36&animation=twinkling&fontColor=ffffff&fontAlignY=60" />
+
+### ⭐️ **If you find my work interesting, don't forget to star my repositories!** ⭐️
+
+**Made with ❤️ and ☕ by RNAGIT**
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRNAGIT&countColor=%2300D9FF&labelStyle=upper)
+
+</div>
