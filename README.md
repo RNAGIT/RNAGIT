@@ -2,13 +2,30 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,21&height=180&section=header&text=RNAGIT&fontSize=100&fontAlignY=30&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descAlign=center" />
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Passionate+Developer;Turning+Ideas+Into+Reality+Through+Code;Let's+Build+Something+Amazing+Together!)](https://git.io/typing-svg)
+### 👋 **Hello! Welcome to My Profile**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding" width="300" />
+</div>
+
+</td>
+<td valign="top" width="50%">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Passionate+Developer;Turning+Ideas+Into+Reality+Through+Code;Let's+Build+Something+Amazing+Together!)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RNAGIT&color=00D9FF&label=PROFILE+VIEWS&style=flat-square)
 
+<div align="center">
+  <img src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" alt="Developer" width="250" />
 </div>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -168,9 +185,47 @@ I am a **Full Stack Developer** passionate about creating scalable, efficient, a
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,21&height=150&section=footer&text=Thank+You+for+Visiting!&fontSize=36&animation=twinkling&fontColor=ffffff&fontAlignY=60" />
 
-### ⭐️ **If you find my work interesting, don't forget to star my repositories!** ⭐️
+<table>
+<tr>
+<td valign="top" width="33%">
 
-**Made with ❤️ and ☕ by RNAGIT**
+<div align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" alt="Git" width="200" />
+  <br/>
+  <strong>Version Control</strong>
+</div>
+
+</td>
+<td valign="top" width="34%">
+
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!;Hope+you+enjoyed+exploring!;Let's+connect+and+collaborate!;Keep+coding+%2C+keep+innovating!)](https://git.io/typing-svg)
+  
+  ### ⭐️ **Star My Repositories!** ⭐️
+  
+  **Made with ❤️ and ☕ by RNAGIT**
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Code" width="200" />
+  <br/>
+  <strong>Coding Life</strong>
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center" style="margin-top: 30px;">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6c70.gif" alt="Thank You" width="300" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Heart" width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" />
+</div>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRNAGIT&countColor=%2300D9FF&labelStyle=upper)
 
