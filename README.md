@@ -32,22 +32,24 @@
 <div align="center">
   
 <a href="https://github.com/RNAGIT">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RNAGIT&show_icons=true&theme=radical&hide_border=true&include_all_commits=false&count_private=false&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+  <img height="180em" src="https://raw.githubusercontent.com/RNAGIT/RNAGIT/main/assets/github-stats.svg" alt="GitHub Stats" />
 </a>
   
 <a href="https://github.com/RNAGIT">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RNAGIT&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
+  <img height="180em" src="https://raw.githubusercontent.com/RNAGIT/RNAGIT/main/assets/top-languages.svg" alt="Top Languages" />
 </a>
   
 </div>
 
 <div align="center" style="margin-top: 20px;">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=RNAGIT&theme=radical&hide_border=true&background=0D1117&dates=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&currStreakNum=00D9FF&sideNums=00D9FF&sideLabels=00D9FF)](https://github.com/RNAGIT)
+<a href="https://github.com/RNAGIT">
+  <img height="180em" src="https://raw.githubusercontent.com/RNAGIT/RNAGIT/main/assets/github-streak.svg" alt="GitHub Streak" />
+</a>
 
 </div>
 
-> 💡 **Tip:** If stats don't appear, it's because you need some public repositories with commits. Create a few repos and make commits, then stats will show automatically!
+> 💡 **Note:** Stats are generated automatically by GitHub Actions. They update daily or when you push changes!
 
 </div>
 
