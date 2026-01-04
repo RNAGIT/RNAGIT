@@ -1,0 +1,34 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Daily at midnight UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Generate GitHub Stats Card
+        run: |
+          mkdir -p assets
+          curl -o assets/github-stats.svg "https://github-readme-stats.vercel.app/api?username=RNAGIT&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" || true
+          curl -o assets/top-languages.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=RNAGIT&layout=compact&theme=radical&langs_count=8&hide_border=true" || true
+          curl -o assets/github-streak.svg "https://github-readme-streak-stats.herokuapp.com/?user=RNAGIT&theme=radical&hide_border=true" || true
+      
+      - name: Commit stats
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update GitHub stats SVGs"
+          file_pattern: assets/*.svg
+          commit_user_name: github-actions[bot]
+          commit_user_email: github-actions[bot]@users.noreply.github.com
+

@@ -29,16 +29,14 @@
 
 ### 📊 **GitHub Analytics**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RNAGIT&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RNAGIT&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RNAGIT&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RNAGIT&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RNAGIT&layout=compact&theme=radical&langs_count=8)
-
-<!-- If stats don't show: -->
-<!-- 1. Check GitHub Settings > Accessibility > Enable "Autoplay animated images" -->
-<!-- 2. Wait a few minutes for services to cache your profile -->
-<!-- 3. Ensure you have some commits/activity on GitHub -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RNAGIT&layout=compact&theme=radical&langs_count=8&hide_border=true" />
+</div>
 
 </div>
 
