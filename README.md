@@ -24,37 +24,6 @@
 
 ---
 
-<!-- GitHub Stats with Animation -->
-<div align="center">
-
-### 📊 **GitHub Analytics**
-
-<div align="center">
-  
-<a href="https://github.com/RNAGIT">
-  <img height="180em" src="https://raw.githubusercontent.com/RNAGIT/RNAGIT/main/assets/github-stats.svg" alt="GitHub Stats" />
-</a>
-  
-<a href="https://github.com/RNAGIT">
-  <img height="180em" src="https://raw.githubusercontent.com/RNAGIT/RNAGIT/main/assets/top-languages.svg" alt="Top Languages" />
-</a>
-  
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  
-<a href="https://github.com/RNAGIT">
-  <img height="180em" src="https://raw.githubusercontent.com/RNAGIT/RNAGIT/main/assets/github-streak.svg" alt="GitHub Streak" />
-</a>
-
-</div>
-
-> 💡 **Note:** Stats are generated automatically by GitHub Actions. They update daily or when you push changes!
-
-</div>
-
----
-
 <!-- GitHub Contribution Snake Animation -->
 <div align="center">
 
@@ -186,11 +155,3 @@
 
 </div>
 
----
-
-<!-- Additional Animated Elements -->
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/RNAGIT/count.svg)
-
-</div>
