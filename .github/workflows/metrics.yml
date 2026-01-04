@@ -15,6 +15,11 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
@@ -25,43 +30,20 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_threshold: A
           plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_contributors: yes
-          plugin_contributors_authorized: RNAGIT
-          plugin_discussions: yes
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_charts: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
-          plugin_languages_recent_categories: markup, programming
           plugin_languages_threshold: 0%
-          plugin_licenses: yes
-          plugin_licenses_legal: yes
-          plugin_licenses_conclusion: table
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           plugin_lines: yes
           plugin_notable: yes
           plugin_people: yes
-          plugin_people_limit: 24
+          plugin_people_limit: 12
           plugin_people_types: followers, following
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_desktop: yes
-          plugin_pagespeed_mobile: yes
           plugin_reactions: yes
-          plugin_skyline: yes
-          plugin_skyline_year: current
           plugin_stargazers: yes
           plugin_stars_limit: 4
-          plugin_stars_query: language:python
-          plugin_stars_recent: yes
-          plugin_traffic: yes
-          plugin_traffic_days: 14
           output: github-metrics.svg
 
       - name: Commit metrics
@@ -69,4 +51,6 @@ jobs:
         with:
           commit_message: "Update GitHub metrics"
           file_pattern: github-metrics.svg
+          commit_user_name: github-actions[bot]
+          commit_user_email: github-actions[bot]@users.noreply.github.com
 

@@ -29,11 +29,11 @@
 
 ### 📊 **GitHub Analytics**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RNAGIT&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=RNAGIT&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&border_radius=10" alt="GitHub Stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RNAGIT&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=445&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&border_radius=10" alt="Top Languages" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=RNAGIT&theme=radical&hide_border=false&border_radius=10&fire=00D9FF&ring=00D9FF&currStreakLabel=00D9FF)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RNAGIT&show_icons=true&theme=radical&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RNAGIT&layout=compact&theme=radical&hide_border=false&border_radius=10&title_color=00D9FF&text_color=ffffff&bg_color=0D1117&langs_count=8)
 
 </div>
 
