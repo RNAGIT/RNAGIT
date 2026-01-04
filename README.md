@@ -185,47 +185,35 @@ I am a **Full Stack Developer** passionate about creating scalable, efficient, a
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,21&height=150&section=footer&text=Thank+You+for+Visiting!&fontSize=36&animation=twinkling&fontColor=ffffff&fontAlignY=60" />
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-<div align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" alt="Git" width="200" />
-  <br/>
-  <strong>Version Control</strong>
-</div>
-
-</td>
-<td valign="top" width="34%">
-
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!;Hope+you+enjoyed+exploring!;Let's+connect+and+collaborate!;Keep+coding+%2C+keep+innovating!)](https://git.io/typing-svg)
+<div align="center" style="margin: 40px 0;">
   
-  ### ⭐️ **Star My Repositories!** ⭐️
-  
-  **Made with ❤️ and ☕ by RNAGIT**
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/footer.gif" alt="Thank You" width="100%" style="max-width: 800px;" />
+
 </div>
 
-</td>
-<td valign="top" width="33%">
+<div align="center" style="margin: 30px 0;">
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Code" width="200" />
-  <br/>
-  <strong>Coding Life</strong>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Hope+you+enjoyed+exploring+my+work!;Feel+free+to+connect+and+collaborate!;Keep+coding%2C+keep+innovating!" alt="Thank You Typing" />
+
 </div>
 
-</td>
-</tr>
-</table>
+<div align="center" style="margin: 30px 0; display: flex; justify-content: center; gap: 20px;">
 
-<div align="center" style="margin-top: 30px;">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6c70.gif" alt="Thank You" width="300" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Heart" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" />
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" alt="Git" width="150" />
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Heart" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" height="40" />
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Code" width="150" />
+
 </div>
+
+### ⭐️ **If you find my work interesting, don't forget to star my repositories!** ⭐️
+
+**Made with ❤️ and ☕ by RNAGIT**
+
+<br/>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRNAGIT&countColor=%2300D9FF&labelStyle=upper)
 
